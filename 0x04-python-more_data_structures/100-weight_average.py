@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/pythoni3
 def weight_average(my_list=[]):
     if not my_list:
         return 0
@@ -7,4 +7,4 @@ def weight_average(my_list=[]):
     for tup in my_list:
         average += tup[0] * tup[1]
         div += tup[1]
-    return float(average / div) 
+    return float(average / div)
