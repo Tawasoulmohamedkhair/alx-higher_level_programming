@@ -2,7 +2,6 @@
 # 6-base_geometry.py
 """Defines a base geometry class BaseGeometry."""
 
-
 class BaseGeometry:
     """Represent base geometry."""
 
